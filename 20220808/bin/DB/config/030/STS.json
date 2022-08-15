@@ -1,0 +1,12 @@
+{
+  "database": "AYB_APPL",
+  "pw": "asd23fgh",
+  "username": "IOT_DATA",
+  "last_update_datatime": "2022-06-03 20:29:42",
+  "dst_dir": "/IoT/bin/ftp/tmp/030/STS/*/*CSV",
+  "comment": "E16:ログなし",
+  "eqp_id": "LAC10001",
+  "unit_name": "ULD",
+  "unit_num": "030",
+  "server": "10.143.16.244"
+}

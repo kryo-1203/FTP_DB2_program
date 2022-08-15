@@ -1,0 +1,12 @@
+{
+  "unit_num": "010",
+  "comment": "E03:原点復帰",
+  "database": "AYB_APPL",
+  "eqp_id": "LAC10001",
+  "pw": "asd23fgh",
+  "dst_dir": "/IoT/bin/ftp/tmp/010/STS/*/*CSV",
+  "username": "IOT_DATA",
+  "last_update_datatime": "2022-05-31 14:04:56",
+  "unit_name": "LD",
+  "server": "10.143.16.244"
+}

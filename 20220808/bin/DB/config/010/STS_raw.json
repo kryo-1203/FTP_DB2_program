@@ -1,0 +1,12 @@
+{
+  "username": "IOT_DATA",
+  "database": "AYB_APPL",
+  "dst_dir": "/IoT/bin/ftp/tmp/010/STS_raw/*/*CSV",
+  "comment": "原点復帰完了(LD→全設備)",
+  "server": "10.143.16.244",
+  "pw": "asd23fgh",
+  "last_update_datatime": "2022-06-05 14:37:39",
+  "unit_num": "010",
+  "eqp_id": "LAC10001",
+  "unit_name": "LD"
+}

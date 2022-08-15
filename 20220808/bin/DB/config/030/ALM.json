@@ -1,0 +1,12 @@
+{
+  "comment": "A468:台車2を投入してください。",
+  "username": "IOT_DATA",
+  "unit_name": "ULD",
+  "eqp_id": "LAC10001",
+  "pw": "asd23fgh",
+  "unit_num": "030",
+  "last_update_datatime": "2022-08-02 18:47:52",
+  "database": "AYB_APPL",
+  "dst_dir": "/IoT/bin/ftp/tmp/030/ALM/*/*CSV",
+  "server": "10.143.16.244"
+}

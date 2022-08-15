@@ -1,0 +1,12 @@
+{
+  "server": "10.143.16.244",
+  "unit_name": "基板ベーク",
+  "dst_dir": "/IoT/bin/ftp/tmp/020/STS/*/*CSV",
+  "last_update_datatime": "2022-06-08 16:56:29",
+  "username": "IOT_DATA",
+  "pw": "asd23fgh",
+  "comment": "E01:手動",
+  "database": "AYB_APPL",
+  "unit_num": "020",
+  "eqp_id": "LAC10001"
+}

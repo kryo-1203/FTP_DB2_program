@@ -1,0 +1,13 @@
+{
+  "dst_dir": "/IoT/bin/ftp/tmp/020/log1_Time_Series/*/*CSV",
+  "username": "IOT_DATA",
+  "unit_name": "基板ベーク",
+  "unit_num": "020",
+  "database": "AYB_APPL",
+  "server": "10.143.16.244",
+  "pw": "asd23fgh",
+  "eqp_id": "LAC10001",
+  "log_num": "1",
+  "calc_name":["温度"],
+  "calc_unit":["0.1"]
+}

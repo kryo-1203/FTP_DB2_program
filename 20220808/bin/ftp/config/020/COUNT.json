@@ -1,0 +1,8 @@
+{
+  "limit_time": "2022-08-02 19:01:00",
+  "user": "Admin",
+  "password": "kyocera",
+  "local_dir": "/IoT/bin/ftp/tmp/020/COUNT",
+  "ip": "10.143.78.3",
+  "dst_dir": "A:/020/COUNT"
+}

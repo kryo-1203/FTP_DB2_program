@@ -1,0 +1,13 @@
+{
+  "server": "10.143.16.244",
+  "unit_name": "基板ベーク",
+  "username": "IOT_DATA",
+  "log_num": "1",
+  "pw": "asd23fgh",
+  "eqp_id": "LAC10001",
+  "unit_num": "020",
+  "database": "AYB_APPL",
+  "dst_dir": "/IoT/bin/ftp/tmp/020/log1_QC/*/*CSV",
+  "calc_name":["温度"],
+  "calc_unit":["0.1"]
+}

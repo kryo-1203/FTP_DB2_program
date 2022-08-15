@@ -1,0 +1,12 @@
+{
+  "eqp_id": "LAC10001",
+  "comment": "NGパネル排出中(ULD→全設備)",
+  "database": "AYB_APPL",
+  "last_update_datatime": "2022-06-01 13:57:18",
+  "server": "10.143.16.244",
+  "unit_num": "030",
+  "dst_dir": "/IoT/bin/ftp/tmp/030/STS_raw/*/*CSV",
+  "username": "IOT_DATA",
+  "unit_name": "ULD",
+  "pw": "asd23fgh"
+}

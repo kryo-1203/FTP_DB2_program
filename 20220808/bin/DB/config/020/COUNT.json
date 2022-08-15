@@ -1,0 +1,11 @@
+{
+  "dst_dir": "/IoT/bin/ftp/tmp/020/COUNT/*/*CSV",
+  "last_update_datatime": "2022-08-02 18:30:19",
+  "unit_num": "020",
+  "database": "AYB_APPL",
+  "unit_name": "基板ベーク",
+  "username": "IOT_DATA",
+  "pw": "asd23fgh",
+  "server": "10.143.16.244",
+  "eqp_id": "LAC10001"
+}

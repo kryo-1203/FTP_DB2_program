@@ -1,0 +1,8 @@
+{
+  "dst_dir": "A:/020/log1_QC",
+  "user": "Admin",
+  "limit_time": "2022-08-02 19:01:00",
+  "password": "kyocera",
+  "local_dir": "/IoT/bin/ftp/tmp/020/log1_QC",
+  "ip": "10.143.78.3"
+}

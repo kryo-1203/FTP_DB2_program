@@ -1,0 +1,12 @@
+{
+  "comment": "原点復帰完了",
+  "pw": "asd23fgh",
+  "unit_name": "基板ベーク",
+  "database": "AYB_APPL",
+  "last_update_datatime": "2022-06-09 10:54:41",
+  "eqp_id": "LAC10001",
+  "server": "10.143.16.244",
+  "dst_dir": "/IoT/bin/ftp/tmp/020/STS_raw/*/*CSV",
+  "username": "IOT_DATA",
+  "unit_num": "020"
+}

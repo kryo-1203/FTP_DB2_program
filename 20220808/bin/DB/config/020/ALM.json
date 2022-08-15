@@ -1,0 +1,12 @@
+{
+  "pw": "asd23fgh",
+  "database": "AYB_APPL",
+  "dst_dir": "/IoT/bin/ftp/tmp/020/ALM/*/*CSV",
+  "last_update_datatime": "2022-08-02 10:02:58",
+  "unit_name": "基板ベーク",
+  "server": "10.143.16.244",
+  "comment": "<異常>  出口受取ｻｰﾎﾞ異常",
+  "unit_num": "020",
+  "eqp_id": "LAC10001",
+  "username": "IOT_DATA"
+}

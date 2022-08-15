@@ -1,0 +1,12 @@
+{
+  "pw": "asd23fgh",
+  "dst_dir": "/IoT/bin/ftp/tmp/010/ALM/*/*CSV",
+  "unit_num": "010",
+  "database": "AYB_APPL",
+  "username": "IOT_DATA",
+  "unit_name": "LD",
+  "comment": "C494:他設備からﾊﾟﾈﾙ投入禁止ﾌﾗｸﾞがONしています。",
+  "eqp_id": "LAC10001",
+  "last_update_datatime": "2022-08-08 07:51:10",
+  "server": "10.143.16.244"
+}

@@ -1,0 +1,8 @@
+{
+  "ip": "10.143.78.3",
+  "password": "kyocera",
+  "dst_dir": "A:/030/STS_raw",
+  "local_dir": "/IoT/bin/ftp/tmp/030/STS_raw",
+  "limit_time": "2022-08-08 13:05:00",
+  "user": "Admin"
+}
